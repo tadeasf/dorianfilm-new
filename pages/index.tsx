@@ -1,7 +1,7 @@
 /** @format */
 
 import React from "react";
-import MainLayout from "../app/MainLayout"; // Import MainLayout component
+import MainLayout from "../app/layout"; // Import MainLayout component
 import Hero from "../app/components/hero";
 import Gallery from "../app/components/gallery";
 import Blog from "../app/components/Blog";

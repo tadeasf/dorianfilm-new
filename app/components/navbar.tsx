@@ -10,6 +10,7 @@ const Navbar = () => {
         <a href="https://flowbite.com/" className="flex items-center">
           <Image
             src="https://flowbite.com/docs/images/logo.svg"
+            width={32}
             className="h-8 mr-3"
             alt="Flowbite Logo"
           />
