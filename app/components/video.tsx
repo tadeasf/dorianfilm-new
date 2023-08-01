@@ -1,0 +1,14 @@
+/** @format */
+
+import React from "react";
+
+const Video: React.FC = () => {
+  return (
+    <video className="w-full" autoPlay controls>
+      <source src="/docs/videos/flowbite.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  );
+};
+
+export default Video;
